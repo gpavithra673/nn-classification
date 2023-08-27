@@ -224,9 +224,6 @@ print(x_prediction)
 print(le.inverse_transform(x_prediction))
 ```
 
-## Dataset Information:
-### Include screenshot of the dataset
-
 ## OUTPUT
 ### DATA information:
 ![image](https://github.com/gpavithra673/nn-classification/assets/93427264/8541a082-5533-469e-a191-033d75307656)
